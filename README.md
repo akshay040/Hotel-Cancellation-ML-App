@@ -12,11 +12,11 @@ The deployed Streamlit application link will be added here after deployment.
 
 ### Booking Input Form
 
-![Hotel cancellation application form](screenshots/app_form.png)
+![Hotel cancellation application form](Screenshots/app_form.png)
 
 ### Prediction Result
 
-![Hotel cancellation prediction result](screenshots/prediction_result.png)
+![Hotel cancellation prediction result](Screenshots/prediction_result.png)
 
 ## Business Problem
 
