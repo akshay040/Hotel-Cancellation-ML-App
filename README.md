@@ -1,6 +1,7 @@
 # Hotel Booking Cancellation Risk Predictor
 
-An end-to-end machine learning application that estimates the probability of a hotel booking being cancelled.
+An end-to-end machine learning application that estimates the probability of a hotel booking being cancelled.The full exploratory data analysis, feature engineering, model comparison, and evaluation are available in the analysis repository.
+
 
 The application was developed using an XGBoost classification pipeline and deployed through a Streamlit user interface. It allows hotel or reservations staff to enter booking information and receive a cancellation-risk probability, risk category and follow-up recommendation.
 
